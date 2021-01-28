@@ -1,0 +1,8 @@
+[kubes]
+10.211.55.3
+10.211.55.4
+
+[kubes:vars]
+ansible_connection=ssh
+ansible_user=parallels
+ansible_ssh_pass=john7991
